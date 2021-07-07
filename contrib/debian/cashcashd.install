@@ -1,0 +1,3 @@
+usr/local/bin/cashcashd usr/bin
+usr/local/bin/cashcash-cli usr/bin
+debian/examples/cashcash.conf etc/cashcash
