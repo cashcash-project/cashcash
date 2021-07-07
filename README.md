@@ -1,7 +1,7 @@
-Tutorial - Compile Windows wallet on Ubuntu Server 18.04
+## Tutorial - Compile Windows wallet on Ubuntu Server 18.04
 Compile a wallet for Microsoft Windows on Ubuntu Server 18.04 with the following tutorial.
 Update your Ubuntu server with the following command:
-sudo apt-get update && sudo apt-get upgrade -y
+`sudo apt-get update && sudo apt-get upgrade -y`
 
 
 Install the required dependencies with the following command:
