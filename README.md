@@ -25,8 +25,11 @@ Install Berkeley DB with the following command:
 Create your source code directory with the following commands:
 
 `cd ~/`
+
 `mkdir source_code`
+
 `cd source_code`
+
 
 
 Download the source code of your coin with the following command:
@@ -55,16 +58,23 @@ Set the default x86_64-w64-mingw32-g++ compiler option to posix with the followi
 Build x86_64-w64-mingw32 with the following commands:
 
 `PATH=$(echo "$PATH" | sed -e 's/:\/mnt.*//g')`
+
 `cd depends`
+
 `make HOST=x86_64-w64-mingw32`
+
 `cd ..`
+
 
 
 Type the following commands to compile your 64 bit wallet for Microsoft Windows.
 
 `./autogen.sh`
+
 `CONFIG_SITE=$PWD/depends/x86_64-w64-mingw32/share/config.site ./configure --prefix=/`
+
 `make`
+
 
 
 ## 32-bit
@@ -83,22 +93,32 @@ Install the required dependencies with the following command:
 Set the default i686-w64-mingw32-gcc and i686-w64-mingw32-g++ compiler option to posix with the following commands.
 
 `sudo update-alternatives --set i686-w64-mingw32-gcc /usr/bin/i686-w64-mingw32-gcc-posix`
+
 `sudo update-alternatives --set i686-w64-mingw32-g++ /usr/bin/i686-w64-mingw32-g++-posix`
+
 
 
 Build i686-w64-mingw32 with the following commands:
 
 `PATH=$(echo "$PATH" | sed -e 's/:\/mnt.*//g')`
+
 `cd depends`
+
 `make HOST=i686-w64-mingw32`
+
 `cd ..`
+
 
 
 Type the following commands to compile your 32 bit wallet for Microsoft Windows.
 
+
 `./autogen.sh`
+
 `CONFIG_SITE=$PWD/depends/i686-w64-mingw32/share/config.site ./configure --prefix=/`
+
 `make`
+
 
 
 The compiled wallet for Microsoft Windows is located in the directory src/qt, the tools are located in the directory src.
