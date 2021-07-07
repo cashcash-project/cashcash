@@ -34,12 +34,14 @@ Create your source code directory with the following commands:
 
 Download the source code of your coin with the following command:
 
-`wget "https://cashcash.digital/downloads/cashcash-source.tar.gz" -O cashcash-source.tar.gz`
+`git clone https://github.com/cashcash-project/cashcash.git`
 
 
-Type the following command to extract the tar file:
+Type the following command:
 
-`tar -xzvf cashcash-source.tar.gz`
+`chmod -R 777 cashcash`
+
+`cd cashcash`
 
 
 ## 64-bit
