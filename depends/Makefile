@@ -8,7 +8,7 @@ NO_QT ?=
 NO_WALLET ?=
 NO_ZMQ ?=
 NO_UPNP ?=
-FALLBACK_DOWNLOAD_PATH ?= https://bitcoincore.org/depends-sources
+FALLBACK_DOWNLOAD_PATH ?= https://boostorg.jfrog.io/artifactory/main/release/1.64.0/source
 
 BUILD = $(shell ./config.guess)
 HOST ?= $(BUILD)
