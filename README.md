@@ -24,11 +24,8 @@ Install Berkeley DB with the following command:
 
 Create your source code directory with the following commands:
 
-`cd ~/`
 
-`mkdir source_code`
-
-`cd source_code`
+`cd /usr/src/`
 
 
 
