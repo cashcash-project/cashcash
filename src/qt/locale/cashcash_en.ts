@@ -841,7 +841,7 @@
     <message>
         <location line="-448"/>
         <location line="+938"/>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -871,12 +871,12 @@
     </message>
     <message>
         <location line="+43"/>
-        <source>&amp;About CashCash Core</source>
+        <source>&amp;About CashCash - CSBit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about CashCash Core</source>
+        <source>Show information about CashCash - CSBit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -946,12 +946,12 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+234"/>
-        <source>CashCash Core client</source>
+        <source>CashCash - CSBit client</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
@@ -1650,7 +1650,7 @@ Address: %4
     </message>
     <message>
         <location line="+0"/>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1661,7 +1661,7 @@ Address: %4
     </message>
     <message>
         <location line="+4"/>
-        <source>About CashCash Core</source>
+        <source>About CashCash - CSBit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1719,17 +1719,17 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to CashCash Core.</source>
+        <source>Welcome to CashCash - CSBit.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1744,7 +1744,7 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+77"/>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3938,7 +3938,7 @@ Please be patient...</source>
         <location line="+7"/>
         <location line="+13"/>
         <location line="+19"/>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3963,7 +3963,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+40"/>
-        <source>CashCash Core didn&apos;t yet exit safely...</source>
+        <source>CashCash - CSBit didn&apos;t yet exit safely...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5314,7 +5314,7 @@ Please be patient...</source>
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+75"/>
-        <source>CashCash Core is shutting down...</source>
+        <source>CashCash - CSBit is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5509,7 +5509,7 @@ Please be patient...</source>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+36"/>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5529,7 +5529,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>The CashCash Core developers</source>
+        <source>The CashCash - CSBit developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6392,7 +6392,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+2"/>
-        <source>Cannot obtain a lock on data directory %s. CashCash Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. CashCash - CSBit is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6637,7 +6637,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. CashCash - CSBit is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6672,7 +6672,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CashCash - CSBit will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6962,7 +6962,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of CashCash Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of CashCash - CSBit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7082,7 +7082,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. CashCash Core is shutting down.</source>
+        <source>Initialization sanity check failed. CashCash - CSBit is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7984,7 +7984,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
+        <source>Wallet needed to be rewritten: restart CashCash - CSBit to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

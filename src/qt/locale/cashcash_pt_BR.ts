@@ -613,8 +613,8 @@
         <translation>Ferramentas de abas</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Send coins to a CashCash address</source>
@@ -637,12 +637,12 @@
         <translation>Procurar masternodes</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
-        <translation>&amp;Sobre o CashCash Core</translation>
+        <source>&amp;About CashCash - CSBit</source>
+        <translation>&amp;Sobre o CashCash - CSBit</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
-        <translation>Mostra informação sobre o CashCash Core</translation>
+        <source>Show information about CashCash - CSBit</source>
+        <translation>Mostra informação sobre o CashCash - CSBit</translation>
     </message>
     <message>
         <source>Modify configuration options for CashCash</source>
@@ -697,11 +697,11 @@
         <translation>Janela de exploração de blocos</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
-        <translation>Mostra a ajuda da CashCash Core para receber uma lista com possíveis opções de linha de comando CashCash</translation>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
+        <translation>Mostra a ajuda da CashCash - CSBit para receber uma lista com possíveis opções de linha de comando CashCash</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
+        <source>CashCash - CSBit client</source>
         <translation>Cliente Core CashCash</translation>
     </message>
     <message>
@@ -1175,16 +1175,16 @@ MultiSend: %1</translation>
         <translation>versão</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
-        <translation>Sobre o CashCash Core</translation>
+        <source>About CashCash - CSBit</source>
+        <translation>Sobre o CashCash - CSBit</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1226,16 +1226,16 @@ MultiSend: %1</translation>
         <translation>Bem-vindo</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
-        <translation>Bem-vindo ao CashCash Core.</translation>
+        <source>Welcome to CashCash - CSBit.</source>
+        <translation>Bem-vindo ao CashCash - CSBit.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
-        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde CashCash Core vai armazenar os seus dados.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
+        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde CashCash - CSBit vai armazenar os seus dados.</translation>
     </message>
     <message>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CashCash Core vai baixar e armazenar uma cópia da blockchain CashCash. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CashCash - CSBit vai baixar e armazenar uma cópia da blockchain CashCash. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1246,8 +1246,8 @@ MultiSend: %1</translation>
         <translation>Usar um diretório personalizado de dados:</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2085,8 +2085,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
@@ -2849,8 +2849,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
-        <translation>CashCash Core está desligando...</translation>
+        <source>CashCash - CSBit is shutting down...</source>
+        <translation>CashCash - CSBit está desligando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2991,8 +2991,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3007,8 +3007,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
         <translation>Os desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>The CashCash Core developers</source>
-        <translation>Os desenvolvedores do CashCash Core</translation>
+        <source>The CashCash - CSBit developers</source>
+        <translation>Os desenvolvedores do CashCash - CSBit</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3592,7 +3592,7 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
         <translation>Aviso: -paytxfee está definido como muito alto! Está e a taxa de transação que você irá pagar se enviar uma transação.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash - CSBit will not work properly.</source>
         <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core CashCash não vai funcionar corretamente.</translation>
     </message>
     <message>
@@ -3661,7 +3661,7 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
     </message>
     <message>
         <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
-        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do CashCash Core</translation>
+        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do CashCash - CSBit</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3712,8 +3712,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
         <translation>Erro no carregamento da wallet.dat: Carteira corrompida</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CashCash Core</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da CashCash Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CashCash - CSBit</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4066,8 +4066,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
         <translation>Verificando carteira...</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
-        <translation>A carteira precisa ser reescrita: reinicia o CashCash Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart CashCash - CSBit to complete</source>
+        <translation>A carteira precisa ser reescrita: reinicia o CashCash - CSBit para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

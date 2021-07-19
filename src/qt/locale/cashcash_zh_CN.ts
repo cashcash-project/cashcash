@@ -569,8 +569,8 @@
         <translation>标签工具栏</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Send coins to a CashCash address</source>
@@ -593,11 +593,11 @@
         <translation>浏览主节点</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
+        <source>&amp;About CashCash - CSBit</source>
         <translation>&amp;A关于CashCash Core</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
+        <source>Show information about CashCash - CSBit</source>
         <translation>显示CashCash  Core的相关信息</translation>
     </message>
     <message>
@@ -653,12 +653,12 @@
         <translation>区块浏览窗口</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
         <translation>显示CashCash Core帮助信息并获取CashCash命令行选项列表</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
-        <translation>CashCash Core 客户端</translation>
+        <source>CashCash - CSBit client</source>
+        <translation>CashCash - CSBit 客户端</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -814,31 +814,31 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
+        <source>About CashCash - CSBit</source>
         <translation>关于CashCash Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Welcome to CashCash Core.</source>
-        <translation>欢迎使用 CashCash Core</translation>
+        <source>Welcome to CashCash - CSBit.</source>
+        <translation>欢迎使用 CashCash - CSBit</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
         <translation>由于这是该程序第一次启动，您可以选择存储CashCash Core 数据的位置。</translation>
     </message>
     <message>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>CashCash Core将下载并存储CashCash区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1126,8 +1126,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
@@ -1472,8 +1472,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
@@ -1561,7 +1561,7 @@ Address: %4
         <translation>在收到相关警报时执行命令，或者看到一个很长的分叉（cmd中的%s被消息替换）</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash - CSBit will not work properly.</source>
         <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，CashCash Core将无法正常工作。</translation>
     </message>
     <message>

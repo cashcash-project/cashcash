@@ -617,8 +617,8 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Send coins to a CashCash address</source>
@@ -641,11 +641,11 @@
         <translation>Pregledajte masternode</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
+        <source>&amp;About CashCash - CSBit</source>
         <translation>&amp; O CashCash Coreu</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
+        <source>Show information about CashCash - CSBit</source>
         <translation>Prikaz informacija o CashCash Coreu</translation>
     </message>
     <message>
@@ -685,8 +685,8 @@
         <translation>Otvori konfiguracijsku datoteku za Masternode</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
-        <translation>CashCash Core klijent</translation>
+        <source>CashCash - CSBit client</source>
+        <translation>CashCash - CSBit klijent</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -922,15 +922,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1058,8 +1058,8 @@
         <translation>N/A</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
@@ -1322,8 +1322,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
-        <translation>CashCash Core se gasi...</translation>
+        <source>CashCash - CSBit is shutting down...</source>
+        <translation>CashCash - CSBit se gasi...</translation>
     </message>
     </context>
 <context>
@@ -1408,8 +1408,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Version %1</source>

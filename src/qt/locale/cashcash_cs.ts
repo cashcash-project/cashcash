@@ -601,8 +601,8 @@
         <translation>Nástrojová lišta záložek</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Send coins to a CashCash address</source>
@@ -625,12 +625,12 @@
         <translation>Procházet masternody</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
-        <translation>&amp;O CashCash Core</translation>
+        <source>&amp;About CashCash - CSBit</source>
+        <translation>&amp;O CashCash - CSBit</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
-        <translation>Zobraz informace o CashCash Core</translation>
+        <source>Show information about CashCash - CSBit</source>
+        <translation>Zobraz informace o CashCash - CSBit</translation>
     </message>
     <message>
         <source>Modify configuration options for CashCash</source>
@@ -685,12 +685,12 @@
         <translation>Okno blokového průzkumníka</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
-        <translation>Zobrazit CashCash Core pomocnou zpráv pro získání seznamu možných parametrů CashCash pro příkazy do příkazové řádky</translation>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
+        <translation>Zobrazit CashCash - CSBit pomocnou zpráv pro získání seznamu možných parametrů CashCash pro příkazy do příkazové řádky</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
-        <translation>CashCash Core klient</translation>
+        <source>CashCash - CSBit client</source>
+        <translation>CashCash - CSBit klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1138,12 +1138,12 @@ MultiSend: %1</translation>
         <translation>verze</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
-        <translation>O CashCash Core</translation>
+        <source>About CashCash - CSBit</source>
+        <translation>O CashCash - CSBit</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1177,16 +1177,16 @@ MultiSend: %1</translation>
         <translation>Vítejte</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
-        <translation>Vítejte v CashCash Core.</translation>
+        <source>Welcome to CashCash - CSBit.</source>
+        <translation>Vítejte v CashCash - CSBit.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
-        <translation>Při prvním spuštění programu si můžete vybrat, kam bude CashCash Core ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
+        <translation>Při prvním spuštění programu si můžete vybrat, kam bude CashCash - CSBit ukládat svá data.</translation>
     </message>
     <message>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CashCash Core stáhne a uloží kopii CashCash blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CashCash - CSBit stáhne a uloží kopii CashCash blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1197,8 +1197,8 @@ MultiSend: %1</translation>
         <translation>Použít vlastní složku pro data</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1690,8 +1690,8 @@ MultiSend: %1</translation>
         <translation>N/A</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
@@ -2220,8 +2220,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>

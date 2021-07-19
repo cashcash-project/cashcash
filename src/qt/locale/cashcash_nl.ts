@@ -653,8 +653,8 @@
         <translation>Tabblad werkbalk</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Send coins to a CashCash address</source>
@@ -677,11 +677,11 @@
         <translation>Bekijk masternodes</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
-        <translation>&amp;Over CashCash Core</translation>
+        <source>&amp;About CashCash - CSBit</source>
+        <translation>&amp;Over CashCash - CSBit</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
+        <source>Show information about CashCash - CSBit</source>
         <translation>Toon informatie over CashCash Kern</translation>
     </message>
     <message>
@@ -737,12 +737,12 @@
         <translation>Block verkenner venster</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
-        <translation>Toon het CashCash Core help bericht om een ​​lijst te krijgen met mogelijke CashCash command line opties</translation>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
+        <translation>Toon het CashCash - CSBit help bericht om een ​​lijst te krijgen met mogelijke CashCash command line opties</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
-        <translation>CashCash Core client</translation>
+        <source>CashCash - CSBit client</source>
+        <translation>CashCash - CSBit client</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1258,16 +1258,16 @@ MultiSend: %1</translation>
         <translation>versie</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
-        <translation>Over CashCash Core</translation>
+        <source>About CashCash - CSBit</source>
+        <translation>Over CashCash - CSBit</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1313,16 +1313,16 @@ MultiSend: %1</translation>
         <translation>Welkom</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
-        <translation>Welkom bij CashCash Core.</translation>
+        <source>Welcome to CashCash - CSBit.</source>
+        <translation>Welkom bij CashCash - CSBit.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
-        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar CashCash Core zijn data opslaat.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
+        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar CashCash - CSBit zijn data opslaat.</translation>
     </message>
     <message>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CashCash Core zal een kopie van de CashCash blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CashCash - CSBit zal een kopie van de CashCash blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1333,8 +1333,8 @@ MultiSend: %1</translation>
         <translation>Gebruik een aangepaste data directory:</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -3021,8 +3021,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
@@ -4041,8 +4041,8 @@ Wees alsjeblieft geduldig...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
-        <translation>CashCash Core is aan het afsluiten...</translation>
+        <source>CashCash - CSBit is shutting down...</source>
+        <translation>CashCash - CSBit is aan het afsluiten...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4191,8 +4191,8 @@ Wees alsjeblieft geduldig...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4207,7 +4207,7 @@ Wees alsjeblieft geduldig...</translation>
         <translation>De Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>The CashCash Core developers</source>
+        <source>The CashCash - CSBit developers</source>
         <translation>De CashCash Kernontwikkelaars</translation>
     </message>
     <message>
@@ -4860,8 +4860,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Het berekende accumulatie controlepunt is niet wat wordt geregistreerd door de blokindex</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CashCash Core is probably already running.</source>
-        <translation>Kan geen vergrendeling op data directory %s verkrijgen. CashCash Core loopt waarschijnlijk al.</translation>
+        <source>Cannot obtain a lock on data directory %s. CashCash - CSBit is probably already running.</source>
+        <translation>Kan geen vergrendeling op data directory %s verkrijgen. CashCash - CSBit loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -5032,8 +5032,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in de OpenSSL Toolkit &lt;https://www.openssl.org/&gt; en cryptografische software geschreven door Eric Young en UPnP software geschreven door Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
-        <translation>Niet mogelijk te binden aan %s op deze computer. CashCash Core loopt waarschijnlijk al.</translation>
+        <source>Unable to bind to %s on this computer. CashCash - CSBit is probably already running.</source>
+        <translation>Niet mogelijk te binden aan %s op deze computer. CashCash - CSBit loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5060,8 +5060,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Waarschuwing: -paytxfee is zeer hoog ingesteld! Dit zijn de transactie kosten die je betaalt als je een transactie verstuurt.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt CashCash Core niet goed.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash - CSBit will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt CashCash - CSBit niet goed.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5276,8 +5276,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Error tijdens het laden van wallet.dat: Portemonnee corrupt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CashCash Core</source>
-        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van CashCash Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CashCash - CSBit</source>
+        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5372,8 +5372,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Informatie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CashCash Core is shutting down.</source>
-        <translation>Initialisatie saniteitscontrole mislukt. CashCash Core wordt afgesloten.</translation>
+        <source>Initialization sanity check failed. CashCash - CSBit is shutting down.</source>
+        <translation>Initialisatie saniteitscontrole mislukt. CashCash - CSBit wordt afgesloten.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -6052,8 +6052,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Portemonnee %s verblijft buiten de data directory %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
-        <translation>Wallet moest worden herschreven: start CashCash Core opnieuw om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart CashCash - CSBit to complete</source>
+        <translation>Wallet moest worden herschreven: start CashCash - CSBit opnieuw om te voltooien</translation>
     </message>
     <message>
         <source>Wallet options:</source>

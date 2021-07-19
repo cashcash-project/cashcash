@@ -421,8 +421,8 @@
         <translation>A&amp;juda</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Send coins to a CashCash address</source>
@@ -437,8 +437,8 @@
         <translation>&amp;Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
-        <translation>&amp;Sobre CashCash Core</translation>
+        <source>&amp;About CashCash - CSBit</source>
+        <translation>&amp;Sobre CashCash - CSBit</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -461,8 +461,8 @@
         <translation>Obre el fitxer de configuració del Masternode</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
-        <translation>Client CashCash core</translation>
+        <source>CashCash - CSBit client</source>
+        <translation>Client CashCash - CSBit</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -862,16 +862,16 @@
         <translation>versió</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
-        <translation>Sobre CashCash Core</translation>
+        <source>About CashCash - CSBit</source>
+        <translation>Sobre CashCash - CSBit</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -917,12 +917,12 @@
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
-        <translation>Benvingut a CashCash Core.</translation>
+        <source>Welcome to CashCash - CSBit.</source>
+        <translation>Benvingut a CashCash - CSBit.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
-        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del CashCash Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
+        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del CashCash - CSBit.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -933,8 +933,8 @@
         <translation>Usar una carpeta de dades personalitzada:</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1326,8 +1326,8 @@
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
@@ -1650,8 +1650,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
-        <translation>CashCash Core s'està tancant...</translation>
+        <source>CashCash - CSBit is shutting down...</source>
+        <translation>CashCash - CSBit s'està tancant...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1716,8 +1716,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Version %1</source>

@@ -654,8 +654,8 @@ Użyj hasła składającego się z dziesięciu lub więcej losowych znaków lub 
         <translation>Pasek narzędzi</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Send coins to a CashCash address</source>
@@ -678,12 +678,12 @@ Użyj hasła składającego się z dziesięciu lub więcej losowych znaków lub 
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
-        <translation>&amp;O CashCash Core</translation>
+        <source>&amp;About CashCash - CSBit</source>
+        <translation>&amp;O CashCash - CSBit</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
-        <translation>Pokaż informacje o CashCash Core</translation>
+        <source>Show information about CashCash - CSBit</source>
+        <translation>Pokaż informacje o CashCash - CSBit</translation>
     </message>
     <message>
         <source>Modify configuration options for CashCash</source>
@@ -738,12 +738,12 @@ Użyj hasła składającego się z dziesięciu lub więcej losowych znaków lub 
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
         <translation>Pokaż wiadomość pomocy rdzenia CashCash, aby dostać listę możliwych opcji CashCash command-line</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
-        <translation>CashCash Core klient</translation>
+        <source>CashCash - CSBit client</source>
+        <translation>CashCash - CSBit klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1267,16 +1267,16 @@ MultiWysyłlka: %1</translation>
         <translation>Wersja</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
-        <translation>O CashCash Core</translation>
+        <source>About CashCash - CSBit</source>
+        <translation>O CashCash - CSBit</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1322,16 +1322,16 @@ MultiWysyłlka: %1</translation>
         <translation>Zapraszamy</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
-        <translation>Zapraszamy do CashCash Core</translation>
+        <source>Welcome to CashCash - CSBit.</source>
+        <translation>Zapraszamy do CashCash - CSBit</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
-        <translation>Ponieważ program jest uruchamiany po raz pierwszy, możesz wybrać miejsce, w którym CashCash Core będzie przechowywać swoje dane.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
+        <translation>Ponieważ program jest uruchamiany po raz pierwszy, możesz wybrać miejsce, w którym CashCash - CSBit będzie przechowywać swoje dane.</translation>
     </message>
     <message>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CashCash Core pobierze i zapisze kopię łańcucha bloków CashCash. Przynajmniej %1 GB danych zostanie zapisanych w tym katalogu, a jego liczba będzie rosnąć z czasem. Portfel zostanie również zapisany w tym katalogu.</translation>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CashCash - CSBit pobierze i zapisze kopię łańcucha bloków CashCash. Przynajmniej %1 GB danych zostanie zapisanych w tym katalogu, a jego liczba będzie rosnąć z czasem. Portfel zostanie również zapisany w tym katalogu.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1342,8 +1342,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -3060,8 +3060,8 @@ Proszę być cierpliwym...</translation>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -3080,8 +3080,8 @@ Proszę być cierpliwym...</translation>
         <translation>Błąd odczytu pliku konfiguracyjnego masternode: %1</translation>
     </message>
     <message>
-        <source>CashCash Core didn't yet exit safely...</source>
-        <translation>CashCash Core nie zamkną się jeszcze bezpiecznie ...</translation>
+        <source>CashCash - CSBit didn't yet exit safely...</source>
+        <translation>CashCash - CSBit nie zamkną się jeszcze bezpiecznie ...</translation>
     </message>
 </context>
 <context>
@@ -4116,8 +4116,8 @@ Proszę być cierpliwym...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
-        <translation>CashCash Core się wyłącza ...</translation>
+        <source>CashCash - CSBit is shutting down...</source>
+        <translation>CashCash - CSBit się wyłącza ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4266,8 +4266,8 @@ Proszę być cierpliwym...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4282,8 +4282,8 @@ Proszę być cierpliwym...</translation>
         <translation>Twórcy Dash Core</translation>
     </message>
     <message>
-        <source>The CashCash Core developers</source>
-        <translation>Twórcy CashCash Core</translation>
+        <source>The CashCash - CSBit developers</source>
+        <translation>Twórcy CashCash - CSBit</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4935,8 +4935,8 @@ Proszę być cierpliwym...</translation>
         <translation>Obliczony punkt kontrolny akumulatora nie jest tym, co jest rejestrowane przez indeks bloku</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CashCash Core is probably already running.</source>
-        <translation>Nie można uzyskać dostępu do katalogu danych %s. CashCash Core prawdopodobnie już działa.</translation>
+        <source>Cannot obtain a lock on data directory %s. CashCash - CSBit is probably already running.</source>
+        <translation>Nie można uzyskać dostępu do katalogu danych %s. CashCash - CSBit prawdopodobnie już działa.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -5123,8 +5123,8 @@ Proszę być cierpliwym...</translation>
         <translation>Całkowita długość string wersji sieciowej (%i) przekracza maksymalną długość (%i). Zmniejsz liczbę lub rozmiar uacomments.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
-        <translation>Nie można podłączyć %s na tym komputerze. CashCash Core prawdopodobnie już działa.</translation>
+        <source>Unable to bind to %s on this computer. CashCash - CSBit is probably already running.</source>
+        <translation>Nie można podłączyć %s na tym komputerze. CashCash - CSBit prawdopodobnie już działa.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5151,8 +5151,8 @@ Proszę być cierpliwym...</translation>
         <translation>Ostrzeżenie: -paytxfee jest ustawione bardzo wysoko! Jest to opłata transakcyjna, którą zapłacisz, jeśli wyślesz transakcję.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
-        <translation>Ostrzeżenie: sprawdź, czy data i godzina komputera są poprawne! Jeśli zegar jest nieprawidłowy, CashCash Core nie będzie działać poprawnie.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash - CSBit will not work properly.</source>
+        <translation>Ostrzeżenie: sprawdź, czy data i godzina komputera są poprawne! Jeśli zegar jest nieprawidłowy, CashCash - CSBit nie będzie działać poprawnie.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5379,8 +5379,8 @@ Proszę być cierpliwym...</translation>
         <translation>Wystąpił błąd podczas ładowania pliku wallet.dat: Portfel uszkodzony</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CashCash Core</source>
-        <translation>Błąd ładowania pliku wallet.dat: Portfel wymaga nowszej wersji CashCash Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CashCash - CSBit</source>
+        <translation>Błąd ładowania pliku wallet.dat: Portfel wymaga nowszej wersji CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5475,8 +5475,8 @@ Proszę być cierpliwym...</translation>
         <translation>Informacje</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CashCash Core is shutting down.</source>
-        <translation>Sprawdzenie poprawności inicjalizacji nie powiodło się. CashCash Core zamyka się.</translation>
+        <source>Initialization sanity check failed. CashCash - CSBit is shutting down.</source>
+        <translation>Sprawdzenie poprawności inicjalizacji nie powiodło się. CashCash - CSBit zamyka się.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -6035,8 +6035,8 @@ Proszę być cierpliwym...</translation>
         <translation>Weryfikuję portfel ...</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
-        <translation>Portfel musiał zostać przepisany: zrestartuj CashCash Core, aby zakończyć</translation>
+        <source>Wallet needed to be rewritten: restart CashCash - CSBit to complete</source>
+        <translation>Portfel musiał zostać przepisany: zrestartuj CashCash - CSBit, aby zakończyć</translation>
     </message>
     <message>
         <source>Wallet options:</source>

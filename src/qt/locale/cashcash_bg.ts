@@ -641,7 +641,7 @@
         <translation>Колан с инструменти</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash Ядро</translation>
     </message>
     <message>
@@ -665,11 +665,11 @@
         <translation>Разгледай мастърноудове</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
+        <source>&amp;About CashCash - CSBit</source>
         <translation>&amp;Относно CashCash Ядрото</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
+        <source>Show information about CashCash - CSBit</source>
         <translation>Информациза за CashCash Ядрото</translation>
     </message>
     <message>
@@ -725,11 +725,11 @@
         <translation>Прозорец на блок сондата</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
         <translation>Разкрийте Помощ за CashCash Ядрото, за да видите списък с възможни писмени команди.</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
+        <source>CashCash - CSBit client</source>
         <translation>Клиент CashCash Ядро</translation>
     </message>
     <message>
@@ -1218,7 +1218,7 @@ Address: %4
         <translation>версия</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash Ядро</translation>
     </message>
     <message>
@@ -1226,7 +1226,7 @@ Address: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
+        <source>About CashCash - CSBit</source>
         <translation>Относно CashCash Ядрото</translation>
     </message>
     <message>
@@ -1273,15 +1273,15 @@ Address: %4
         <translation>Привет</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
+        <source>Welcome to CashCash - CSBit.</source>
         <translation>Добре Дошли в CashCash Ядрото</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
         <translation>Тъй като това е първия път, в който стартирате програмата, имате възможността да изберете къде CashCash Ядрото ще съхранява своите данни.</translation>
     </message>
     <message>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>CashCash Ядрото ще изтегли и запише копие на целия CashCash блокчейн. Поне %1 гигабайта ще бъдат съхранявани в тази папка, като тенденцията е файла да расте. Портфейла също ще бъде запазен в тази папка.</translation>
     </message>
     <message>
@@ -1293,7 +1293,7 @@ Address: %4
         <translation>Задай своя папка за данни:</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash Ядро</translation>
     </message>
     <message>
@@ -2831,7 +2831,7 @@ Please be patient...</source>
         <translation>%1 милисек.</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash Ядро</translation>
     </message>
     </context>
@@ -3839,7 +3839,7 @@ Please be patient...</source>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
+        <source>CashCash - CSBit is shutting down...</source>
         <translation>Изключване на CashCash Ядрото...</translation>
     </message>
     <message>
@@ -3989,7 +3989,7 @@ Please be patient...</source>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash Ядро</translation>
     </message>
     <message>
@@ -4005,8 +4005,8 @@ Please be patient...</source>
         <translation>Dash Core разработчици</translation>
     </message>
     <message>
-        <source>The CashCash Core developers</source>
-        <translation>CashCash Core разработчици</translation>
+        <source>The CashCash - CSBit developers</source>
+        <translation>CashCash - CSBit разработчици</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4650,7 +4650,7 @@ Please be patient...</source>
         <translation>Изчисления чекпойнт на акумулатора не е същия като записания в блок индекса.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CashCash Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. CashCash - CSBit is probably already running.</source>
         <translation>Не може да заключи папката с данни %s. CashCash Портфейла вероятно вече е стартиран.</translation>
     </message>
     <message>
@@ -4822,7 +4822,7 @@ Please be patient...</source>
         <translation>Този продукт включва софтуер разработен от OpenSSL Project &lt;https://www.openssl.org/&gt; и крипто софтуер написан от Ерик Юнг и UPnP софтуер от Томас Бернард.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. CashCash - CSBit is probably already running.</source>
         <translation>Не може да се прикачи към %s на този компютър. CashCash Портфейла вероятно вече е стартиран.</translation>
     </message>
     <message>
@@ -4850,7 +4850,7 @@ Please be patient...</source>
         <translation>Внимание: -paytxfee е зададена твърде голяма! Това е преводната такса, която ще платите ако изпратите този превод.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash - CSBit will not work properly.</source>
         <translation>Внимание: Проверете дали датата и часа на компютъра са верни! Ако Вашият часовник греши, CashCash Портфейла няма да работи правилно.</translation>
     </message>
     <message>
@@ -4983,7 +4983,7 @@ Please be patient...</source>
     </message>
     <message>
         <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
-        <translation>Всички права запазени (c) 2015-%i CashCash Core разработчици</translation>
+        <translation>Всички права запазени (c) 2015-%i CashCash - CSBit разработчици</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5062,7 +5062,7 @@ Please be patient...</source>
         <translation>Грешка в зареждането на wallet.dat: Портфейла е повреден</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CashCash Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of CashCash - CSBit</source>
         <translation>Грешка в зареждането на wallet.dat: Портфейла изисква по-нова версия</translation>
     </message>
     <message>
@@ -5150,7 +5150,7 @@ Please be patient...</source>
         <translation>Информация</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CashCash Core is shutting down.</source>
+        <source>Initialization sanity check failed. CashCash - CSBit is shutting down.</source>
         <translation>Стартирането на проверка на здравословното състояние на портфейла се провали. Изключваме Портфейла.</translation>
     </message>
     <message>
@@ -5826,7 +5826,7 @@ Please be patient...</source>
         <translation>Портфейла %s е извън папката с данни %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
+        <source>Wallet needed to be rewritten: restart CashCash - CSBit to complete</source>
         <translation>Портфейла трябва да се пренапише: рестартирайте програмата за завършване на процеса</translation>
     </message>
     <message>

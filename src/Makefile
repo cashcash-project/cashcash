@@ -1609,9 +1609,9 @@ OBJEXT = o
 OTOOL = 
 OTOOL64 = 
 PACKAGE = cashcash
-PACKAGE_BUGREPORT = www.cashcash.org
-PACKAGE_NAME = CashCash Core
-PACKAGE_STRING = CashCash Core 1.0.0
+PACKAGE_BUGREPORT = csbit.org
+PACKAGE_NAME = CashCash - CSBit
+PACKAGE_STRING = CashCash - CSBit 1.5.0
 PACKAGE_TARNAME = cashcash
 PACKAGE_URL = 
 PACKAGE_VERSION = 1.0.0
@@ -1790,7 +1790,7 @@ LIBBITCOIN_ZMQ = libbitcoin_zmq.a
 LIBBITCOIN_WALLET = libbitcoin_wallet.a
 lib_LTLIBRARIES = $(LIBBITCOINCONSENSUS)
 BENCHMARKS = 
-# cashcash core #
+# CashCash - CSBit #
 BITCOIN_CORE_H = \
   activemasternode.h \
   addrman.h \

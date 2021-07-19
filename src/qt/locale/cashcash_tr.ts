@@ -645,8 +645,8 @@
         <translation>Sekme tablosu</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash CORE</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Send coins to a CashCash address</source>
@@ -669,11 +669,11 @@
         <translation>Masternodları ara</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
+        <source>&amp;About CashCash - CSBit</source>
         <translation>Pıvx core Hakkında</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
+        <source>Show information about CashCash - CSBit</source>
         <translation>Pıvx Core hakkında bilgi göster</translation>
     </message>
     <message>
@@ -729,12 +729,12 @@
         <translation>Kaşif penceresini engelle</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
-        <translation>Olası CashCash komut satırı seçeneklerine sahip bir liste almak için CashCash Core yardım mesajını gösterin</translation>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
+        <translation>Olası CashCash komut satırı seçeneklerine sahip bir liste almak için CashCash - CSBit yardım mesajını gösterin</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
-        <translation>CashCash Core istemci</translation>
+        <source>CashCash - CSBit client</source>
+        <translation>CashCash - CSBit istemci</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1219,16 +1219,16 @@ Adres: %4
         <translation>versiyon</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash CORE</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
-        <translation>hakkında CashCash Core</translation>
+        <source>About CashCash - CSBit</source>
+        <translation>hakkında CashCash - CSBit</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1274,16 +1274,16 @@ Adres: %4
         <translation>Hoşgeldiniz</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
-        <translation>CashCash Core'a hoşgeldiniz.</translation>
+        <source>Welcome to CashCash - CSBit.</source>
+        <translation>CashCash - CSBit'a hoşgeldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
-        <translation>Program ilk başlatıldığında CashCash Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
+        <translation>Program ilk başlatıldığında CashCash - CSBit'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CashCash Core, CashCash blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CashCash - CSBit, CashCash blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1294,8 +1294,8 @@ Adres: %4
         <translation>Özel bir veri dizini kullanın:</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash CORE</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2729,8 +2729,8 @@ Lütfen sabırlı olun...</translation>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash CORE</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
@@ -3653,8 +3653,8 @@ Lütfen sabırlı olun...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
-        <translation>CashCash Core kapanıyor ...</translation>
+        <source>CashCash - CSBit is shutting down...</source>
+        <translation>CashCash - CSBit kapanıyor ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3803,8 +3803,8 @@ Lütfen sabırlı olun...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash CORE</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3819,8 +3819,8 @@ Lütfen sabırlı olun...</translation>
         <translation>The Dash Core developers</translation>
     </message>
     <message>
-        <source>The CashCash Core developers</source>
-        <translation>The CashCash Core developers</translation>
+        <source>The CashCash - CSBit developers</source>
+        <translation>The CashCash - CSBit developers</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4412,8 +4412,8 @@ Lütfen sabırlı olun...</translation>
         <translation>Hesaplanan akümülatör kontrol noktası, blok indeksiyle kaydedilen kontrol noktası değildir.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CashCash Core is probably already running.</source>
-        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. CashCash Core muhtemelen zaten çalışıyor.</translation>
+        <source>Cannot obtain a lock on data directory %s. CashCash - CSBit is probably already running.</source>
+        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. CashCash - CSBit muhtemelen zaten çalışıyor.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>

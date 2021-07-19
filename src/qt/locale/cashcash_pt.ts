@@ -1181,8 +1181,8 @@
         <translation>carteira %s reside fora do diretório %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
-        <translation>Carteira precisa ser reescrita: reinicie o CashCash Core para completar.</translation>
+        <source>Wallet needed to be rewritten: restart CashCash - CSBit to complete</source>
+        <translation>Carteira precisa ser reescrita: reinicie o CashCash - CSBit para completar.</translation>
     </message>
     <message>
         <source>Wallet options:</source>

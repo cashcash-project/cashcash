@@ -565,7 +565,7 @@
         <translation>&amp;Apua</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash Ydin</translation>
     </message>
     <message>
@@ -585,11 +585,11 @@
         <translation>Selaa masternodeja</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
-        <translation>CashCash Core &amp;ytimestä</translation>
+        <source>&amp;About CashCash - CSBit</source>
+        <translation>CashCash - CSBit &amp;ytimestä</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
+        <source>Show information about CashCash - CSBit</source>
         <translation>Näytä tietoja CashCash Ytimestä</translation>
     </message>
     <message>
@@ -645,11 +645,11 @@
         <translation>Lohkon tutkija näkymä</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
         <translation>Näytä CashCash Ydin apuviesti saadaksesi lista mahdollisista CashCash komentolinja komennoista.</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
+        <source>CashCash - CSBit client</source>
         <translation>CashCash Ydin asiakasohjelma</translation>
     </message>
     <message>
@@ -919,7 +919,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash Ydin</translation>
     </message>
     <message>
@@ -938,11 +938,11 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
+        <source>Welcome to CashCash - CSBit.</source>
         <translation>Tervetuloa CashCash Ytimeen.</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash Ydin</translation>
     </message>
     <message>
@@ -1391,7 +1391,7 @@
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash Ydin</translation>
     </message>
     </context>
@@ -1979,8 +1979,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
-        <translation>CashCash core sammuu...</translation>
+        <source>CashCash - CSBit is shutting down...</source>
+        <translation>CashCash - CSBit sammuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2121,7 +2121,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash Ydin</translation>
     </message>
     <message>
@@ -2137,8 +2137,8 @@
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The CashCash Core developers</source>
-        <translation>CashCash core kehittäjät</translation>
+        <source>The CashCash - CSBit developers</source>
+        <translation>CashCash - CSBit kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2486,7 +2486,7 @@
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko korruptoitunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CashCash Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of CashCash - CSBit</source>
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version CashCash Coresta</translation>
     </message>
     <message>

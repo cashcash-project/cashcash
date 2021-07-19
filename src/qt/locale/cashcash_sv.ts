@@ -657,8 +657,8 @@
         <translation>flik vertygsrad</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Send coins to a CashCash address</source>
@@ -681,11 +681,11 @@
         <translation>Utforska masternoder</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
+        <source>&amp;About CashCash - CSBit</source>
         <translation>Om CashCash Kärnan</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
+        <source>Show information about CashCash - CSBit</source>
         <translation>Visa information om CashCash Kärnan</translation>
     </message>
     <message>
@@ -741,11 +741,11 @@
         <translation>Blockera utforskarfönstret</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
-        <translation>Visa CashCash Core hjälp meddelande för att få en lista med möjliga CashCash kommandorad alternativ</translation>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
+        <translation>Visa CashCash - CSBit hjälp meddelande för att få en lista med möjliga CashCash kommandorad alternativ</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
+        <source>CashCash - CSBit client</source>
         <translation>CashCash kärn klient</translation>
     </message>
     <message numerus="yes">
@@ -1290,15 +1290,15 @@ MultiSend: %1</translation>
         <translation>version</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
+        <source>About CashCash - CSBit</source>
         <translation>Om CashCash Kärna</translation>
     </message>
     <message>
@@ -1345,15 +1345,15 @@ MultiSend: %1</translation>
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
-        <translation>Välkommen till CashCash Core.</translation>
+        <source>Welcome to CashCash - CSBit.</source>
+        <translation>Välkommen till CashCash - CSBit.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet körs så kan du välja var CashCash Core ska spara sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
+        <translation>Eftersom detta är första gången programmet körs så kan du välja var CashCash - CSBit ska spara sin data.</translation>
     </message>
     <message>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>CashCash Kärnan kommer ladda ner och spara en kopia av CashCash block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
     </message>
     <message>
@@ -1365,8 +1365,8 @@ MultiSend: %1</translation>
         <translation>Använd en skräddarsydd data katalog</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -3090,8 +3090,8 @@ Var tålmodig...</translation>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -3102,8 +3102,8 @@ Var tålmodig...</translation>
         <translation>Fel vid inläsning av masternodens konfigurationsfil: %1</translation>
     </message>
     <message>
-        <source>CashCash Core didn't yet exit safely...</source>
-        <translation>CashCash Core avslutades ännu inte säkert...</translation>
+        <source>CashCash - CSBit didn't yet exit safely...</source>
+        <translation>CashCash - CSBit avslutades ännu inte säkert...</translation>
     </message>
 </context>
 <context>
@@ -4138,8 +4138,8 @@ Var tålmodig...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
-        <translation>CashCash Core stängs ner...</translation>
+        <source>CashCash - CSBit is shutting down...</source>
+        <translation>CashCash - CSBit stängs ner...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4288,8 +4288,8 @@ Var tålmodig...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4304,8 +4304,8 @@ Var tålmodig...</translation>
         <translation>Dash Core utvecklarna</translation>
     </message>
     <message>
-        <source>The CashCash Core developers</source>
-        <translation>CashCash Core utvecklarna</translation>
+        <source>The CashCash - CSBit developers</source>
+        <translation>CashCash - CSBit utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4965,7 +4965,7 @@ Var tålmodig...</translation>
         <translation>Beräknade ackumulator kontrollstation är inte vad som sparats av block index</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CashCash Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. CashCash - CSBit is probably already running.</source>
         <translation>Kan ej låsa in på data katalog %s. CashCash Kärna körs förmodligen redan.</translation>
     </message>
     <message>
@@ -5141,8 +5141,8 @@ Var tålmodig...</translation>
         <translation>Totala längden av nätverks verisionens sträng (%i) överskrider maximala längd (%i). Minska mängden eller storleken av uakommentarer.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. CashCash Core körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. CashCash - CSBit is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. CashCash - CSBit körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5169,8 +5169,8 @@ Var tålmodig...</translation>
         <translation>Varning: -maxtxfee är sätt väldigt högt! Detta är transaktionsavgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
-        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer CashCash Core inte att fungera korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash - CSBit will not work properly.</source>
+        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer CashCash - CSBit inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5385,7 +5385,7 @@ Var tålmodig...</translation>
         <translation>Fel vid laddning av wallet.dat: Plånbok korrupterad</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CashCash Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of CashCash - CSBit</source>
         <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare CashCash Kärna version</translation>
     </message>
     <message>
@@ -5481,7 +5481,7 @@ Var tålmodig...</translation>
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CashCash Core is shutting down.</source>
+        <source>Initialization sanity check failed. CashCash - CSBit is shutting down.</source>
         <translation>Initierings renlighetscheck misslyckades. CashCash Kärna stängs ner.</translation>
     </message>
     <message>
@@ -6169,7 +6169,7 @@ Var tålmodig...</translation>
         <translation>Plånbok %s finns utanför data katalog %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
+        <source>Wallet needed to be rewritten: restart CashCash - CSBit to complete</source>
         <translation>Plånbok behöver skrivas om: starta om CashCash Kärna för att göra klart</translation>
     </message>
     <message>

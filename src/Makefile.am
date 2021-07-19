@@ -74,7 +74,7 @@ if BUILD_BITCOIN_UTILS
 endif
 
 .PHONY: FORCE check-symbols check-security
-# cashcash core #
+# CashCash - CSBit #
 BITCOIN_CORE_H = \
   activemasternode.h \
   addrman.h \

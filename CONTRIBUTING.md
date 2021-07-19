@@ -1,7 +1,7 @@
-Contributing to CashCash Core
+Contributing to CashCash - CSBit
 ============================
 
-The CashCash Core project operates an open contributor model where anyone is
+The CashCash - CSBit project operates an open contributor model where anyone is
 welcome to contribute towards development in the form of peer review, testing
 and patches. This document explains the practical process and guidelines for
 contributing.
@@ -203,10 +203,10 @@ workload on reviewing.
 "Decision Making" Process
 -------------------------
 
-The following applies to code changes to the CashCash Core project, and is not to be
+The following applies to code changes to the CashCash - CSBit project, and is not to be
 confused with overall CashCash Network Protocol consensus changes.
 
-Whether a pull request is merged into CashCash Core rests with the project merge
+Whether a pull request is merged into CashCash - CSBit rests with the project merge
 maintainers and ultimately the project lead.
 
 Maintainers will take into consideration if a patch is in line with the general
@@ -303,7 +303,7 @@ about:
 Release Policy
 --------------
 
-The project leader is the release manager for each CashCash Core release.
+The project leader is the release manager for each CashCash - CSBit release.
 
 Copyright
 ---------

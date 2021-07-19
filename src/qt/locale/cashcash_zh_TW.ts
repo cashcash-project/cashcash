@@ -557,8 +557,8 @@
         <translation>Tabs 工具列</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     <message>
         <source>Send coins to a CashCash address</source>
@@ -577,12 +577,12 @@
         <translation>瀏覽 Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
-        <translation>&amp;關於 CashCash Core</translation>
+        <source>&amp;About CashCash - CSBit</source>
+        <translation>&amp;關於 CashCash - CSBit</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
-        <translation>顯示 CashCash Core 相關資訊</translation>
+        <source>Show information about CashCash - CSBit</source>
+        <translation>顯示 CashCash - CSBit 相關資訊</translation>
     </message>
     <message>
         <source>Modify configuration options for CashCash</source>
@@ -637,12 +637,12 @@
         <translation>區塊鏈瀏覽視窗</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
-        <translation>顯示 CashCash Core 幫助訊息以取得 CashCash 命令列表選項</translation>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
+        <translation>顯示 CashCash - CSBit 幫助訊息以取得 CashCash 命令列表選項</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
-        <translation>CashCash Core 客戶端</translation>
+        <source>CashCash - CSBit client</source>
+        <translation>CashCash - CSBit 客戶端</translation>
     </message>
     </context>
 <context>
@@ -674,15 +674,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
@@ -754,8 +754,8 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>
@@ -904,8 +904,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
-        <translation>CashCash Core</translation>
+        <source>CashCash - CSBit</source>
+        <translation>CashCash - CSBit</translation>
     </message>
     </context>
 <context>

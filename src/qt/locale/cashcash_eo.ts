@@ -641,7 +641,7 @@
         <translation>Iloj langeto</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash kerno</translation>
     </message>
     <message>
@@ -665,11 +665,11 @@
         <translation>Foliumi mastro-nodo</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
+        <source>&amp;About CashCash - CSBit</source>
         <translation>&amp;Pri CashCash Kerno</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
+        <source>Show information about CashCash - CSBit</source>
         <translation>Montri informon pri CashCash Kerno</translation>
     </message>
     <message>
@@ -725,11 +725,11 @@
         <translation>Bloko esplorilo fenestro</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
         <translation>Montri la CashCash Kore help-mesaĝo por havi liston de havebla CashCash komandlinion opciojn</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
+        <source>CashCash - CSBit client</source>
         <translation>CashCash Kerno kliento</translation>
     </message>
     <message>
@@ -1210,7 +1210,7 @@ Muktisendi: %1</translation>
         <translation>versio</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash kerno</translation>
     </message>
     <message>
@@ -1218,7 +1218,7 @@ Muktisendi: %1</translation>
         <translation>(%1-bajto)</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
+        <source>About CashCash - CSBit</source>
         <translation>Pri CashCash Kerno</translation>
     </message>
     <message>
@@ -1261,15 +1261,15 @@ Muktisendi: %1</translation>
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
+        <source>Welcome to CashCash - CSBit.</source>
         <translation>Bonvenon al la CashCash Kerno.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
         <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie CashCash kernk storigis sian datumojn. </translation>
     </message>
     <message>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>CashCash kerno elŝutos kaj konservi kopion de la CashCash blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
     </message>
     <message>
@@ -1281,7 +1281,7 @@ Muktisendi: %1</translation>
         <translation>Uzi kutimon datumojn dosierujo:</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash kerno</translation>
     </message>
     <message>
@@ -1928,7 +1928,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>NEKONATA</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash kerno</translation>
     </message>
     </context>
@@ -2304,7 +2304,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
+        <source>CashCash - CSBit is shutting down...</source>
         <translation>CashCash kerno fermanta...</translation>
     </message>
     </context>
@@ -2358,7 +2358,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash kerno</translation>
     </message>
     <message>
@@ -2370,7 +2370,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>La Dash kerno programistoj</translation>
     </message>
     <message>
-        <source>The CashCash Core developers</source>
+        <source>The CashCash - CSBit developers</source>
         <translation>La CashCash kerno programistoj</translation>
     </message>
     </context>

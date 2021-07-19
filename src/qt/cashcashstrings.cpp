@@ -32,7 +32,7 @@ QT_TRANSLATE_NOOP("cashcash-core", ""
 QT_TRANSLATE_NOOP("cashcash-core", ""
 "Calculated accumulator checkpoint is not what is recorded by block index"),
 QT_TRANSLATE_NOOP("cashcash-core", ""
-"Cannot obtain a lock on data directory %s. CashCash Core is probably already "
+"Cannot obtain a lock on data directory %s. CashCash - CSBit is probably already "
 "running."),
 QT_TRANSLATE_NOOP("cashcash-core", ""
 "Change automatic finalized budget voting behavior. mode=auto: Vote for only "
@@ -207,7 +207,7 @@ QT_TRANSLATE_NOOP("cashcash-core", ""
 "Total length of network version string (%i) exceeds maximum length (%i). "
 "Reduce the number or size of uacomments."),
 QT_TRANSLATE_NOOP("cashcash-core", ""
-"Unable to bind to %s on this computer. CashCash Core is probably already running."),
+"Unable to bind to %s on this computer. CashCash - CSBit is probably already running."),
 QT_TRANSLATE_NOOP("cashcash-core", ""
 "Unable to locate enough Obfuscation denominated funds for this transaction."),
 QT_TRANSLATE_NOOP("cashcash-core", ""
@@ -227,7 +227,7 @@ QT_TRANSLATE_NOOP("cashcash-core", ""
 "pay if you send a transaction."),
 QT_TRANSLATE_NOOP("cashcash-core", ""
 "Warning: Please check that your computer's date and time are correct! If "
-"your clock is wrong CashCash Core will not work properly."),
+"your clock is wrong CashCash - CSBit will not work properly."),
 QT_TRANSLATE_NOOP("cashcash-core", ""
 "Warning: The network does not appear to fully agree! Some miners appear to "
 "be experiencing issues."),
@@ -311,7 +311,7 @@ QT_TRANSLATE_NOOP("cashcash-core", "Error initializing wallet database environme
 QT_TRANSLATE_NOOP("cashcash-core", "Error loading block database"),
 QT_TRANSLATE_NOOP("cashcash-core", "Error loading wallet.dat"),
 QT_TRANSLATE_NOOP("cashcash-core", "Error loading wallet.dat: Wallet corrupted"),
-QT_TRANSLATE_NOOP("cashcash-core", "Error loading wallet.dat: Wallet requires newer version of CashCash Core"),
+QT_TRANSLATE_NOOP("cashcash-core", "Error loading wallet.dat: Wallet requires newer version of CashCash - CSBit"),
 QT_TRANSLATE_NOOP("cashcash-core", "Error opening block database"),
 QT_TRANSLATE_NOOP("cashcash-core", "Error reading from database, shutting down."),
 QT_TRANSLATE_NOOP("cashcash-core", "Error recovering public key."),
@@ -343,7 +343,7 @@ QT_TRANSLATE_NOOP("cashcash-core", "Imports blocks from external blk000??.dat fi
 QT_TRANSLATE_NOOP("cashcash-core", "Include IP addresses in debug output (default: %u)"),
 QT_TRANSLATE_NOOP("cashcash-core", "Incorrect or no genesis block found. Wrong datadir for network?"),
 QT_TRANSLATE_NOOP("cashcash-core", "Information"),
-QT_TRANSLATE_NOOP("cashcash-core", "Initialization sanity check failed. CashCash Core is shutting down."),
+QT_TRANSLATE_NOOP("cashcash-core", "Initialization sanity check failed. CashCash - CSBit is shutting down."),
 QT_TRANSLATE_NOOP("cashcash-core", "Insufficient funds"),
 QT_TRANSLATE_NOOP("cashcash-core", "Insufficient funds."),
 QT_TRANSLATE_NOOP("cashcash-core", "Invalid -onion address or hostname: '%s'"),
@@ -486,7 +486,7 @@ QT_TRANSLATE_NOOP("cashcash-core", "Value is below the smallest available denomi
 QT_TRANSLATE_NOOP("cashcash-core", "Verifying blocks..."),
 QT_TRANSLATE_NOOP("cashcash-core", "Verifying wallet..."),
 QT_TRANSLATE_NOOP("cashcash-core", "Wallet %s resides outside data directory %s"),
-QT_TRANSLATE_NOOP("cashcash-core", "Wallet needed to be rewritten: restart CashCash Core to complete"),
+QT_TRANSLATE_NOOP("cashcash-core", "Wallet needed to be rewritten: restart CashCash - CSBit to complete"),
 QT_TRANSLATE_NOOP("cashcash-core", "Wallet options:"),
 QT_TRANSLATE_NOOP("cashcash-core", "Wallet window title"),
 QT_TRANSLATE_NOOP("cashcash-core", "Warning"),

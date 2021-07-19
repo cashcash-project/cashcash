@@ -1,4 +1,4 @@
-Name "CashCash Core (-bit)"
+Name "CashCash - CSBit (-bit)"
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
@@ -6,8 +6,8 @@ SetCompressor /SOLID lzma
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 1.0.0
-!define COMPANY "CashCash Core project"
-!define URL https://www.cashcash.org
+!define COMPANY "CashCash - CSBit project"
+!define URL https://csbit.org
 
 # MUI Symbol Definitions
 !define MUI_ICON "/tmp/CashCash/share/pixmaps/cashcash.ico"
@@ -19,7 +19,7 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
-!define MUI_STARTMENUPAGE_DEFAULTFOLDER "CashCash Core"
+!define MUI_STARTMENUPAGE_DEFAULTFOLDER "CashCash - CSBit"
 !define MUI_FINISHPAGE_RUN $INSTDIR\cashcash-qt
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "/tmp/CashCash/share/pixmaps/nsis-wizard.bmp"
@@ -59,7 +59,7 @@ XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion ${VERSION}.0
-VIAddVersionKey ProductName "CashCash Core"
+VIAddVersionKey ProductName "CashCash - CSBit"
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
@@ -92,7 +92,7 @@ Section -post SEC0001
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
     CreateShortcut "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk" $INSTDIR\cashcash-qt
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\CashCash Core (testnet, -bit).lnk" "$INSTDIR\cashcash-qt" "-testnet" "$INSTDIR\cashcash-qt" 1
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\CashCash - CSBit (testnet, -bit).lnk" "$INSTDIR\cashcash-qt" "-testnet" "$INSTDIR\cashcash-qt" 1
     CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall $(^Name).lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
@@ -136,7 +136,7 @@ Section -un.post UNSEC0001
     DeleteRegKey HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)"
     Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall $(^Name).lnk"
     Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\CashCash Core (testnet, -bit).lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\CashCash - CSBit (testnet, -bit).lnk"
     Delete /REBOOTOK "$SMSTARTUP\CashCash.lnk"
     Delete /REBOOTOK $INSTDIR\uninstall.exe
     Delete /REBOOTOK $INSTDIR\debug.log

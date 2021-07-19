@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#  cashcashd The CashCash core server.
+#  cashcashd The CashCash - CSBit server.
 #
 #
 # chkconfig: 345 80 20

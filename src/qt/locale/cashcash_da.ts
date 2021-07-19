@@ -641,7 +641,7 @@
         <translation>Værktøjslinier</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash kerne</translation>
     </message>
     <message>
@@ -665,11 +665,11 @@
         <translation>Vis masternoder</translation>
     </message>
     <message>
-        <source>&amp;About CashCash Core</source>
+        <source>&amp;About CashCash - CSBit</source>
         <translation>&amp;Om CashCash kerne</translation>
     </message>
     <message>
-        <source>Show information about CashCash Core</source>
+        <source>Show information about CashCash - CSBit</source>
         <translation>Vis information om CashCash kerne</translation>
     </message>
     <message>
@@ -725,11 +725,11 @@
         <translation>Blockexplorer vindue</translation>
     </message>
     <message>
-        <source>Show the CashCash Core help message to get a list with possible CashCash command-line options</source>
+        <source>Show the CashCash - CSBit help message to get a list with possible CashCash command-line options</source>
         <translation>Vis hjelpetekster fra CashCash kernen for at få en liste med mulige CashCash kommandolinie-startparametre</translation>
     </message>
     <message>
-        <source>CashCash Core client</source>
+        <source>CashCash - CSBit client</source>
         <translation>CashCash kerneklient</translation>
     </message>
     <message>
@@ -1218,7 +1218,7 @@ Adresse: %4
         <translation>version</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash kerne</translation>
     </message>
     <message>
@@ -1226,7 +1226,7 @@ Adresse: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CashCash Core</source>
+        <source>About CashCash - CSBit</source>
         <translation>om CashCash kerne</translation>
     </message>
     <message>
@@ -1273,15 +1273,15 @@ Adresse: %4
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to CashCash Core.</source>
+        <source>Welcome to CashCash - CSBit.</source>
         <translation>Velkommen til CashCash kerne</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where CashCash - CSBit will store its data.</source>
         <translation>Da det er første gang programmet startes, kan De vælge hvor CashCash kernen skal lagre sine data</translation>
     </message>
     <message>
-        <source>CashCash Core will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>CashCash - CSBit will download and store a copy of the CashCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>CashCash kernen vil nu hente og gemme en kopi af CashCash blockchain. Der skal være mindst %1GB ledigt på lagermediet, og behovet vil stige efterhånden som tiden går. Selve tegnebogen vil også blive gemt her.</translation>
     </message>
     <message>
@@ -1293,7 +1293,7 @@ Adresse: %4
         <translation>Anvend en mappe valgt af brugeren</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash kerne</translation>
     </message>
     <message>
@@ -2856,7 +2856,7 @@ Vær tålmodig...</translation>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash kerne</translation>
     </message>
     </context>
@@ -3868,7 +3868,7 @@ Vær tålmodig...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CashCash Core is shutting down...</source>
+        <source>CashCash - CSBit is shutting down...</source>
         <translation>CashCash kernen lukker ned</translation>
     </message>
     <message>
@@ -4018,7 +4018,7 @@ Vær tålmodig...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CashCash Core</source>
+        <source>CashCash - CSBit</source>
         <translation>CashCash kerne</translation>
     </message>
     <message>
@@ -4034,7 +4034,7 @@ Vær tålmodig...</translation>
         <translation>DASH "core" udviklerne</translation>
     </message>
     <message>
-        <source>The CashCash Core developers</source>
+        <source>The CashCash - CSBit developers</source>
         <translation>CashCash "core" udviklerne</translation>
     </message>
     <message>
@@ -4679,8 +4679,8 @@ Vær tålmodig...</translation>
         <translation>Beregnet akkumulator kontrolpunkt er ikke det, der er registreret af blok indeks</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CashCash Core is probably already running.</source>
-        <translation>Kan ikke låse datamappen %s. CashCash core kører sandsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s. CashCash - CSBit is probably already running.</source>
+        <translation>Kan ikke låse datamappen %s. CashCash - CSBit kører sandsynligvis allerede.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4852,7 +4852,7 @@ Vær tålmodig...</translation>
         <translation>Dette produkt anvender software udviklet i OpenSSL projektet til brug i OpenSSL værktøjssættet &lt;https://www.openssl.org/&gt; og kryptosoftware skrevet afEric Young og UPnP software skrevet af Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. CashCash - CSBit is probably already running.</source>
         <translation>Det var ikke muligt at forbinde %s på denne computer. CashCash kører sandsynligvis allerede.</translation>
     </message>
     <message>
@@ -4880,8 +4880,8 @@ Vær tålmodig...</translation>
         <translation>Advarsel! -paytxfee er sat meget højt. Det er dette gebyr De kommer til at betale for transaktionen, hvis De gennemfører. </translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
-        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil CashCash core ikke fungere ordentligt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash - CSBit will not work properly.</source>
+        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil CashCash - CSBit ikke fungere ordentligt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5092,8 +5092,8 @@ Vær tålmodig...</translation>
         <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen er beskadiget</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CashCash Core</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af CashCash core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CashCash - CSBit</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af CashCash - CSBit</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5188,8 +5188,8 @@ Vær tålmodig...</translation>
         <translation>Info:</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CashCash Core is shutting down.</source>
-        <translation>Initiering af sanitetskontrollen fejlede. CashCash core lukker ned. </translation>
+        <source>Initialization sanity check failed. CashCash - CSBit is shutting down.</source>
+        <translation>Initiering af sanitetskontrollen fejlede. CashCash - CSBit lukker ned. </translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -5864,8 +5864,8 @@ Vær tålmodig...</translation>
         <translation>Tegnbogen %s befinder sig udenfor datamappen %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
-        <translation>Tegnebogen måtte genskrives. Genstart CashCash core for at gøre færdig</translation>
+        <source>Wallet needed to be rewritten: restart CashCash - CSBit to complete</source>
+        <translation>Tegnebogen måtte genskrives. Genstart CashCash - CSBit for at gøre færdig</translation>
     </message>
     <message>
         <source>Wallet options:</source>

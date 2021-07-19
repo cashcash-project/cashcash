@@ -38,10 +38,10 @@ from the root of the repository.
 
 **Note**: You only need Berkeley DB if the wallet is enabled (see [*Disable-wallet mode*](/doc/build-osx.md#disable-wallet-mode)).
 
-Build CashCash Core
+Build CashCash - CSBit
 ------------------------
 
-1. Clone the CashCash Core source code:
+1. Clone the CashCash - CSBit source code:
 
         git clone https://github.com/cashcash-project/cashcash
         cd cashcash
@@ -51,7 +51,7 @@ Build CashCash Core
         export LDFLAGS+=-L/usr/local/opt/openssl/lib
         export CPPFLAGS+=-I/usr/local/opt/openssl/include
 
-3.  Build CashCash Core:
+3.  Build CashCash - CSBit:
 
         ./autogen.sh
         ./configure
@@ -69,7 +69,7 @@ Disable-wallet mode
 --------------------
 **Note:** This functionality is not yet completely implemented, and compilation using the below option will currently fail.
 
-When the intention is to run only a P2P node without a wallet, CashCash Core may be compiled in
+When the intention is to run only a P2P node without a wallet, CashCash - CSBit may be compiled in
 disable-wallet mode with:
 
     ./configure --disable-wallet
@@ -79,7 +79,7 @@ In this case there is no dependency on Berkeley DB 4.8.
 Running
 -------
 
-CashCash Core is now available at `./src/cashcashd`
+CashCash - CSBit is now available at `./src/cashcashd`
 
 Before running, you may create an empty configuration file:
 
