@@ -169,7 +169,7 @@ public:
         txNew.vout[0].nValue = 20 * COIN;
         txNew.vout[0].scriptPubKey = CScript() << ParseHex("044c054842b73ba4afad50b3dcb36668dc692f927f46c9973965e57e4bfb3447ee9d7c08ad04970c8112d5d24e911a07d9def53a1594ca3ce069250f238a2164e4") << OP_CHECKSIG;
         genesis.vtx.push_back(txNew);
-        genesis.hashPrevBlock = 10;
+        genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
         genesis.nTime = 1618523716;
@@ -177,8 +177,8 @@ public:
         genesis.nNonce = 21098964;
 
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("10x000000a7dcb580b81890084cdc6e8b431ce8c9e9d36e6fdb315743e5c19ddbd6"));
-        assert(genesis.hashMerkleRoot == uint256("10x2440a123ff1e3e7f13601288e9504ef757a9bc9cfae9a8972fcaadbebc11c593"));
+        assert(hashGenesisBlock == uint256("0x000000a7dcb580b81890084cdc6e8b431ce8c9e9d36e6fdb315743e5c19ddbd6"));
+        assert(genesis.hashMerkleRoot == uint256("0x2440a123ff1e3e7f13601288e9504ef757a9bc9cfae9a8972fcaadbebc11c593"));
 
         vSeeds.push_back(CDNSSeedData("node1.cashcash.com.br","node2.cashcash.com.br"));
         vSeeds.push_back(CDNSSeedData("node3.cashcash.com.br","node4.cashcash.com.br"));
